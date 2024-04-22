@@ -1,0 +1,12 @@
+* {
+  font-size: 18px;
+}
+
+.bttop {
+  position: absolute;
+  right: 100px;
+}
+
+.input-group {
+  width: 500px;
+}
